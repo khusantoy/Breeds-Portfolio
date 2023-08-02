@@ -7,6 +7,8 @@ body {
     margin: 0 auto;
 }
 
+/* Navigation  */
+
 .main-header__brand {
     display: inline-block;
     vertical-align: middle;
@@ -37,3 +39,5 @@ body {
 .main-navigation__item.active a {
     color: #efb6df;
 }
+
+/* /Navigation  */
